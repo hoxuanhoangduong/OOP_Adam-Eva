@@ -1,0 +1,38 @@
+// let Human  = function (name,gender,weight) {
+//     this.name = name;
+//     this.gender = gender;
+//     this.weight = weight;
+//
+//     this.setName = function (name) {
+//         this.name = name;
+//     };
+//     this.getName = function () {
+//         return this.name;
+//     };
+//     this.setWeight = function (weight) {
+//         this.weight = weight;
+//     };
+//     this.getWeight = function () {
+//         return this.weight;
+//     };
+//     this.eat = function (apple) {
+//         apple.decrease();
+//     };
+//     this.say = function (sound) {
+//         this.say = sound;
+//         console.log(sound);
+//     };
+//     this.checkApple = function (apple) {
+//         return !apple.isEmpty();
+//     };
+//     this.setGender = function (gender) {
+//         this.gender = gender;
+//     };
+//     this.isMale = function () {
+//         if (this.gender = "Male") {
+//             return true;
+//         } else {
+//             return false;
+//         }
+//     }
+// };
